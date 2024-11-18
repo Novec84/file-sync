@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSync", "FileSync\FileSync.csproj", "{21CF210F-E56F-4BAC-8E74-D22A39D4004B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CF210F-E56F-4BAC-8E74-D22A39D4004B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CF210F-E56F-4BAC-8E74-D22A39D4004B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CF210F-E56F-4BAC-8E74-D22A39D4004B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CF210F-E56F-4BAC-8E74-D22A39D4004B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E295B563-4655-439D-BAF7-60F231FE9021}
+	EndGlobalSection
+EndGlobal
